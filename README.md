@@ -30,9 +30,8 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/electron.png"/> 
 
 <br>
-
 ## GitHub Stats 📈 :
 
-<br>
-
 ![Kevinoliver118's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinoliver118&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinoliver118&layout=compact&theme=radical)
