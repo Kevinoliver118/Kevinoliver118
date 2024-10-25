@@ -10,7 +10,7 @@
 
 - 🧑‍💻 I’m a **Software Engineer** with expertise in JavaScript, Java, React, Vue, Laravel, PHP, Electron, Blade, Python, and MySQL.
 - 📚 Passionate about building dynamic and scalable applications, exploring new technologies, and contributing to open-source projects.
-- 🌍 Based in Perú <img src="https://github.com/Kevinoliver118/Kevinoliver118/raw/main/assets/peru-flag.png" alt="Peruvian Flag" width="20"/>
+🌍 Based in Perú <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Peru.svg" alt="Peruvian Flag" width="20"/>
 - ⚡ **Fun Facts** : Code lover, tech enthusiast, and always ready for a new challenge.
 
 <br>
